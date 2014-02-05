@@ -16,7 +16,6 @@
 <link href="css/main.css" rel="stylesheet" type="text/css" />
 <link href="css/menu.css" rel="stylesheet" type="text/css" />
 
-
 <script language="javascript">AC_FL_RunContent = 0;</script>
 <script src="flash/AC_RunActiveContent.js" language="javascript"></script>
 
@@ -39,8 +38,6 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 <span class="preload2"></span>
 
 <div id="wrapper">
-
-
 
 <div id="header">
 <script language="javascript">
@@ -73,17 +70,14 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 </ul>
 </div>    
   
-  
-  
-  
-  <div id="content_wrapper">
+ <div id="content_wrapper">
     <div id="content" class="cms-editable">
       <p><a href="residential.shtml"><img src="images/residential.jpg" alt="Residential" width="194" height="116" class="no_border" /></a> <a href="commercial.shtml"><img src="images/commercial.jpg" alt="Commercial" width="194" height="116" class="no_border" /></a></p>
-      <h1>Welcome to All Pro Electric</h1>
+    <h1>Welcome to All Pro Electric</h1>
     <p> Our team of dedicated planners, designers, estimators and skilled licensed electricians are waiting to turn your electrical problems into solutions. No job is too large or small for our team of electrical experts!</p>
     <p>Our business is built upon a tradition of efficient, effective and affordable service. We are committed to providing superior electrical services to all of our clients, whether they are commercial, industrial or residential.</p>
     <p>Our services cover everything from new wiring to electrical maintenance and troubleshooting. So, no matter what you need, we have a solution at the right price. </p>
-    </div>
+</div>
 
 <!--#include virtual="right_side.html" -->
 
