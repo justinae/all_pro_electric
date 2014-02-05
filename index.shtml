@@ -87,7 +87,7 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 </div>
 <!--End wrapper-->
   
-<!--#include virtual="/justin/all_pro_electric/footer.html" -->
+<!--#include virtual="footer.html" -->
   
 </body>
 </html>
