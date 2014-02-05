@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="Description" content="Electrical Services in Portland, OR" />
+<meta name="keywords" content="electric, electrical contractor, electrician, lighting, lights, Portland, Oregon, residential" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>All Pro Electric | Portland, OR</title>
+
+<link rel="icon" type="image/gif" href="/images/favicon.gif" />
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="flash/AC_RunActiveContent.js" language="javascript"></script>
+
+<!--[if lt IE 7]>
+<style type="text/css">
+.menu li a.top_link span {
+float:none;
+}
+</style>
+
+<script type="text/javascript">
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
+</script>
+<![endif]-->
+</head>
+
+<body>
+
+<span class="preload1"></span>
+<span class="preload2"></span>
+
+<div id="wrapper">
+
+<!--#include virtual="/justin/all_pro_electric/header.html" -->
+  <div id="content_wrapper">
+    <div id="content" class="cms-editable">
+      <h1>Residential Services</h1>
+      <p>All Pro Electric, Inc. offers you an experienced and highly trained team of electricians who will treat your home like their own. They take pride in their work and are looking forward to tackling your project or problem in a safe and efficient manner.</p>
+        <ul>
+        <li>New and Upgraded Electrical Services</li>
+        <li>Circuit breaker Upgrades and breaker panel replacements</li>
+        <li>Kitchen and Bathroom Remodel</li>
+        <li>Security Lighting and Automated Controls</li>
+        <li>Back-up power systems and transfer switches</li>
+        <li>Spas, Pools and Hot Tubs</li>
+        <li>Landscape Lighting and Pond Pumps</li>
+        <li>Addition and Remodel Projects</li>
+        <li>New Construction Electrical</li>
+        <li>Power Conditioning and Surge Suppression</li>
+        <li>Troubleshooting and Repair</li>
+        <li>Home Sale Inspection and Repair</li>
+        <li>Garage, Barn and Out-Building Electrical</li>
+        <li>Attic Exhaust Solutions and Bathroom Venting</li>
+        <li>Solar Electric for clean energy</li>
+        <li>Ungrounded wiring system repairs and replacements (i.e. knob-and-tube)</li>
+        <li>Telephone, Cable Television and Computer Networks</li>
+        </ul>
+    </div>
+       <!--#include virtual="right_side.html" -->
+
+  <div style="clear: both"></div>
+</div>
+<!--End ccontent-->
+</div>
+<!--End wrapper-->
+  
+<!--#include virtual="/justin/all_pro_electric/footer.html" -->
+  
+</body>
+</html>

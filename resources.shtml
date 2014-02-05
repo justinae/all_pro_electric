@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="Description" content="Electrical Services in Portland, OR" />
+<meta name="keywords" content="electric, electrical contractor, electrician, lighting, lights, Portland, Oregon, residential" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>All Pro Electric | Portland, OR</title>
+
+<link rel="icon" type="image/gif" href="/images/favicon.gif" />
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="flash/AC_RunActiveContent.js" language="javascript"></script>
+
+<!--[if lt IE 7]>
+<style type="text/css">
+.menu li a.top_link span {
+float:none;
+}
+</style>
+
+<script type="text/javascript">
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
+</script>
+<![endif]-->
+</head>
+
+<body>
+
+<span class="preload1"></span>
+<span class="preload2"></span>
+
+<div id="wrapper">
+
+<!--#include virtual="/justin/all_pro_electric/header.html" -->
+  <div id="content_wrapper">
+    <div id="content" class="cms-editable">
+      <h1>Resources</h1>
+      <h3 class="no_margin">Lighting Design</h3>
+      <p class="no_margin">All Pro Electric, Inc. provides professional lighting design services for your home to meet any budget.  Great lighting improves the beauty and function of any space and can significantly affect your mood and experience.  Properly planned and installed lighting will also increase the value of your home.  A proper lighting design requires input from the client to determine how each space is used and takes into consideration many factors (e.g. intended use of the space, desired lighting levels and sources, energy efficiency desires, security needs).  We strive to maintain current knowledge regarding continually evolving lighting products including LED and fluorescent technologies for energy efficiency as well as task lighting and general lighting.<br />
+        <br />
+        The methods by which the light sources are controlled are just as important as the fixtures themselves.  Lighting control can be as simple as a wall switch and as complex at a whole house control system with scene selection and security system/computer system interconnect.  Dimmer switches and occupancy sensors are common examples of lighting controls that are frequently employed not only for convenience, but for energy savings.<br />
+        <br />
+      In addition to integrating light fixtures selected and supplied by our clients, All Pro Electric, Inc. maintains an inventory of fixtures that we know are excellent lighting sources with a track record of proven reliability and longevity that we are glad to recommend.</p>
+    </div>
+       <!--#include virtual="right_side.html" -->
+
+  <div style="clear: both"></div>
+</div>
+<!--End ccontent-->
+</div>
+<!--End wrapper-->
+  
+<!--#include virtual="/justin/all_pro_electric/footer.html" -->
+  
+</body>
+</html>

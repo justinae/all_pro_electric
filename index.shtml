@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="Description" content="Electrical Services in Portland, OR" />
+<meta name="keywords" content="electric, electrical contractor, electrician, lighting, lights, Portland, Oregon, residential" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>All Pro Electric | Portland, OR</title>
+
+<link rel="icon" type="image/gif" href="/images/favicon.gif" />
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="flash/AC_RunActiveContent.js" language="javascript"></script>
+
+<!--[if lt IE 7]>
+<style type="text/css">
+.menu li a.top_link span {
+float:none;
+}
+</style>
+
+<script type="text/javascript">
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
+</script>
+<![endif]-->
+</head>
+
+<body>
+
+<span class="preload1"></span>
+<span class="preload2"></span>
+
+<div id="wrapper">
+
+
+
+<div id="header">
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0','width','960','height','178','id','flash_header','align','middle','src','flash/flash_header','quality','high','bgcolor','#ffffff','name','flash_header','allowscriptaccess','sameDomain','allowfullscreen','false','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','flash/flash_header' ); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="960" height="178" id="flash_header" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="flash/flash_header.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="flash/flash_header.swf" quality="high" bgcolor="#ffffff" width="960" height="178" name="flash_header" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+</div>
+
+<div id="menu">
+		
+<ul class="menu">
+<li class="top"><a href="index.shtml" class="top_link"><span class="down">Home</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="residential.shtml" class="top_link"><span class="down">Residential</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="commercial.shtml" class="top_link"><span class="down">Commercial</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="solar.shtml" class="top_link"><span class="down">Solar Power</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="sustainability.shtml" class="top_link"><span class="down">Sustainability</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="resources.shtml" class="top_link"><span class="down">Resources</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="testimonials.shtml" class="top_link"><span class="down">Testimonials</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li class="top"><a href="contact.shtml" class="top_link"><span class="down">Contact</span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+</ul>
+</div>    
+  
+  
+  
+  
+  <div id="content_wrapper">
+    <div id="content" class="cms-editable">
+      <p><a href="residential.shtml"><img src="images/residential.jpg" alt="Residential" width="194" height="116" class="no_border" /></a> <a href="commercial.shtml"><img src="images/commercial.jpg" alt="Commercial" width="194" height="116" class="no_border" /></a></p>
+      <h1>Welcome to All Pro Electric</h1>
+    <p> Our team of dedicated planners, designers, estimators and skilled licensed electricians are waiting to turn your electrical problems into solutions. No job is too large or small for our team of electrical experts!</p>
+    <p>Our business is built upon a tradition of efficient, effective and affordable service. We are committed to providing superior electrical services to all of our clients, whether they are commercial, industrial or residential.</p>
+    <p>Our services cover everything from new wiring to electrical maintenance and troubleshooting. So, no matter what you need, we have a solution at the right price. </p>
+    </div>
+
+<!--#include virtual="right_side.html" -->
+
+    <div style="clear: both"></div>
+</div>
+<!--End ccontent-->
+</div>
+<!--End wrapper-->
+  
+<!--#include virtual="/justin/all_pro_electric/footer.html" -->
+  
+</body>
+</html>

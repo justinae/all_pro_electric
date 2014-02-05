@@ -1,0 +1,192 @@
+body {
+	background-position: left top;
+	font-size: 10pt;
+	background-image: url(/justin/all_pro_electric/images/bg.jpg);
+	color: #000000;
+	line-height: 1.4em;
+	background-repeat: repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #CCCCCC
+}
+
+#wrapper {
+	padding-right: 0px;
+	background-position: left top;
+	padding-left: 0px;
+	padding-bottom: 2px;
+	margin: 0px auto;
+	width: 964px;
+	padding-top: 2px;
+	background-repeat: repeat-x;
+	background-color: #000000
+}
+#header {
+	width: 960px;
+	height: 178px;
+	text-align: right;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-image: url(../images/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+#content_wrapper {
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	margin: 0px auto;
+	width: 930px;
+	padding-top: 10px;
+	background-repeat: repeat;
+	background-color: #ffffff;
+	text-align: left;
+}
+#content {
+	padding-right: 0px;
+	float: left;
+	width: 600px;
+	padding-top: 0px
+}
+#right_side {
+	padding-right: 0px;
+	background-position: left top;
+	padding-left: 0px;
+	float: right;
+	background-image: url(/justin/all_pro_electric/images/line.gif);
+	padding-bottom: 0px;
+	margin: 0px 0px 0px 10px;
+	vertical-align: top;
+	width: 250px;
+	padding-top: 0px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+h1 {
+	font-weight: bold;
+	font-size: 16pt;
+	color: #FD1812
+}
+h2 {
+	font-weight: normal;
+	font-size: 14pt;
+	color: #FD1812;
+	margin: 0px;
+}
+h3 {
+	font-weight: normal;
+	font-size: 12pt;
+	color: #FD1812
+}
+h4 {
+	font-weight: bold;
+	font-size: 10pt;
+	color: #FD1812;
+	margin: 0px;
+	padding: 0px;
+}
+.no_margin {
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px
+}
+
+.left_padding_200 {
+	margin-left: 170px;
+}
+.left_padding_300 {
+	margin-left: 300px;
+}
+li {
+	padding-left: 0px;
+	padding-bottom: 5px;
+	margin-left: 0px
+}
+ul {
+	margin-top: 0px
+}
+.no_border {
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	border-top-style: none;
+	padding-top: 0px;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: none
+}
+
+#pdx_advisory {
+	float: right;
+	width: 250px;
+	text-align: center;
+	padding-top: 18px;
+	margin-right: 20px;
+}
+.divider {
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px
+}
+
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.img_border/*Images*/
+ {
+	border: 2px solid #000000;	
+}
+.img_left {
+	float: left;
+	vertical-align: top;
+	margin-right: 10px
+}
+.img_right {
+	float: right;
+	margin-left: 10px
+}
+a.black {
+	color: #000000;
+}
+
+a {
+	color: #003399;
+}
+
+#footer {
+	margin-top: 5px;
+	margin-left: auto;
+	width: 900px;
+	color: #000000;
+	margin-right: auto;
+	text-align: center
+}
+.footer {
+	padding-right: 12px;
+	padding-left: 10px;
+	font-size: 11px;
+	color: #000000
+}
+
+.clear {
+	clear: both;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px
+}
+
+#testimonial {
+	margin-bottom: 20px;
+}
