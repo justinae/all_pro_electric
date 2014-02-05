@@ -39,7 +39,7 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 
 <div id="wrapper">
 
-<!--#include virtual="/justin/all_pro_electric/header.html" -->
+<!--#include virtual="header.html" -->
   <div id="content_wrapper">
     <div id="content" class="cms-editable">
       <div id="pdx_advisory"><a href="http://www.pdxadvisorygroup.com/"><img src="images/PDX_advisory_logo.gif" alt="PDX Advisory Group" width="200" height="95" /></a>
@@ -74,7 +74,7 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 </div>
 <!--End wrapper-->
   
-<!--#include virtual="/justin/all_pro_electric/footer.html" -->
+<!--#include virtual="footer.html" -->
   
 </body>
 </html>

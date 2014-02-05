@@ -9,10 +9,10 @@ This stylesheet and the associated (x)html may be modified in any
 way to fit your requirements.
 =================================================================== */
 .preload1 {
-	background-image: url(/justin/all_pro_electric/images/menu/blank_over.gif);
+	background-image: url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank_over.gif);
 }
 .preload2 {
-	background-image: url(/justin/all_pro_electric/images/menu/link_bg.gif);
+	background-image: url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank.gif);
 }
 
 
@@ -53,7 +53,7 @@ way to fit your requirements.
 	font-size:9pt;
 	font-weight:bold;
 	cursor:pointer;
-	background: url(/justin/all_pro_electric/images/menu/blank.gif);
+	background: url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank.gif);
 	text-align: center;
 }
 
@@ -63,15 +63,15 @@ way to fit your requirements.
 	display:block;
 	height:36px;
 	width:120px;
-	background:url(/justin/all_pro_electric/images/menu/blank.gif) right top;
+	background:url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank.gif) right top;
 	text-align: center;
 }
 
-.menu li a.top_link:hover {color:#fff; background: url(/justin/all_pro_electric/images/menu/blank_over.gif) no-repeat;}
-.menu li a.top_link:hover span {background:url(/justin/all_pro_electric/images/menu/blank_over.gif) no-repeat right top;}
+.menu li a.top_link:hover {color:#fff; background: url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank_over.gif) no-repeat;}
+.menu li a.top_link:hover span {background:url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank_over.gif) no-repeat right top;}
 
-.menu li:hover > a.top_link {color:#fff; background: url(/justin/all_pro_electric/images/menu/blank_over.gif) no-repeat;}
-.menu li:hover > a.top_link span {background:url(/justin/all_pro_electric/images/menu/blank_over.gif) no-repeat right top;}
+.menu li:hover > a.top_link {color:#fff; background: url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank_over.gif) no-repeat;}
+.menu li:hover > a.top_link span {background:url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/blank_over.gif) no-repeat right top;}
 
 
 .menu table {border-collapse:collapse; width:0; height:0; position:absolute; top:0; left:0;}
@@ -134,7 +134,7 @@ way to fit your requirements.
 }
 .menu :hover ul.sub li a:hover {
 	color:#FFFFFF;
-	background-image: url(/justin/all_pro_electric/images/menu/link_bg.gif);
+	background-image: url(http://justineuteneiercom.ipage.com/archive/all_pro_electric/images/menu/link_bg.gif);
 	background-repeat: no-repeat;
 	background-position: left top;
 }

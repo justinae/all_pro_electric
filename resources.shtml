@@ -39,7 +39,7 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 
 <div id="wrapper">
 
-<!--#include virtual="/justin/all_pro_electric/header.html" -->
+<!--#include virtual="header.html" -->
   <div id="content_wrapper">
     <div id="content" class="cms-editable">
       <h1>Resources</h1>
@@ -58,7 +58,7 @@ try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
 </div>
 <!--End wrapper-->
   
-<!--#include virtual="/justin/all_pro_electric/footer.html" -->
+<!--#include virtual="footer.html" -->
   
 </body>
 </html>
